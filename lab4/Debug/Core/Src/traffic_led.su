@@ -1,0 +1,8 @@
+../Core/Src/traffic_led.c:10:6:blinkingLeds	16	static
+../Core/Src/traffic_led.c:35:6:offAllLeds	8	static
+../Core/Src/traffic_led.c:45:6:setRed1	8	static
+../Core/Src/traffic_led.c:50:6:setYellow1	8	static
+../Core/Src/traffic_led.c:55:6:setGreen1	8	static
+../Core/Src/traffic_led.c:61:6:setRed2	8	static
+../Core/Src/traffic_led.c:66:6:setYellow2	8	static
+../Core/Src/traffic_led.c:71:6:setGreen2	8	static

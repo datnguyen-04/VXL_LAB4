@@ -1,0 +1,8 @@
+../Core/Src/traffic_led.c:10:6:blinkingLeds	5
+../Core/Src/traffic_led.c:35:6:offAllLeds	1
+../Core/Src/traffic_led.c:45:6:setRed1	1
+../Core/Src/traffic_led.c:50:6:setYellow1	1
+../Core/Src/traffic_led.c:55:6:setGreen1	1
+../Core/Src/traffic_led.c:61:6:setRed2	1
+../Core/Src/traffic_led.c:66:6:setYellow2	1
+../Core/Src/traffic_led.c:71:6:setGreen2	1
